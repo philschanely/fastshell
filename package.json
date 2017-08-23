@@ -1,13 +1,13 @@
 {
-  "name": "fastshell",
-  "title": "Fiercely quick and opinionated front-ends",
-  "author": "Hossein Karami",
-  "url": "https://HosseinKarami.github.io/fastshell",
-  "version": "1.0.5",
+  "name": "simpleshell",
+  "title": "Simplified quick and opinionated front-ends",
+  "author": "Phil Schanely",
+  "url": "http://philschanely.com",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/HosseinKarami/fastshell.git"
+    "url": "https://github.com/philschanely/simpleshell.git"
   },
   "devDependencies": {
     "browser-sync": "^2.11.1",
